@@ -1,3 +1,3 @@
-# fastinfo
+# Giro
 
-leopires97.github.io/fastinfo
+leopires97.github.io/girodgt
