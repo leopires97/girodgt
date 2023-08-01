@@ -110,9 +110,9 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["Transforme com tecnologia."],    /* You can change the home section typing text from
+            strings: ["E sim gerar valor. Não é sobre dinheiro, é sobre propósito."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
-            typeSpeed: 50
+            typeSpeed: 25
           });
          });
         
