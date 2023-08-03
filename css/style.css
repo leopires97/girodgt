@@ -776,7 +776,8 @@ ul.portfolio li.active {
 /* Contact Us */
 
 .contact-us {
-	background-color: #f9f9f9;
+    background: url(../images/bg/bg.png);
+    background-size: cover;
 }
 
 .contact-us-detail {
